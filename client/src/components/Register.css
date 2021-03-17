@@ -1,0 +1,11 @@
+form{
+    margin:auto;
+    position:relative;
+    top:3rem;
+    width:20rem;
+  height:40rem;
+}
+
+.heading-error{
+  color:red;
+}

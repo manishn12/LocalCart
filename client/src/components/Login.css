@@ -1,0 +1,15 @@
+.form{
+    position: relative;
+    top:3rem;
+width: 20rem;
+height: 20rem;
+margin:auto;
+overflow-y: hidden;
+}
+
+p{
+    text-align:center
+}
+
+
+

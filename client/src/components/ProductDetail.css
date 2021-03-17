@@ -1,0 +1,39 @@
+.product{
+    display: flex;
+}
+
+.product-img{
+    margin: 30px;
+    padding:10px;
+
+}
+.product-details{
+    margin:30px;
+    padding:10px;
+
+}
+.product-btn{
+position:absolute;
+margin-top:30px;
+right:10%;
+background:orange;
+color:#fff;
+border:1px solid orange;
+border-radius:10px;
+}
+
+.product-btn:hover{
+    background:#fff;
+    color:orange;
+    transition:ease-in .3s;
+}
+.product-btn-disable{
+    cursor:not-allowed;
+    position:absolute;
+margin-top:30px;
+right:10%;
+background:orange;
+color:#fff;
+border:1px solid orange;
+border-radius:10px;
+}

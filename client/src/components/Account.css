@@ -1,0 +1,29 @@
+.header{
+    text-align:center;
+    background: #0099F7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #F11712, #0099F7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F11712, #0099F7);  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+*{
+color:#fff;
+}
+h2{
+    text-transform: capitalize;
+}
+.p-normal{
+    font-size: 30px;
+    text-align:center;
+    padding:30px;
+}
+.p-admin{
+    font-size: 30px;
+    text-align:center;
+    padding:30px;
+    background: #0099F7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F11712, #0099F7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F11712, #0099F7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+border-radius:30px;
+color:#F8EFBA;
+}
+
